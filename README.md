@@ -54,10 +54,12 @@
 - [SQLite](https://www.sqlite.org/index.html)
 - [Expo](https://expo.io/)
 
+
 Extras: 
   * Main Libs:
     * [Express](https://expressjs.com/pt-br/)
     * [Cors](https://www.npmjs.com/package/cors)
+    * [Knex](http://knexjs.org/)
     
   
   * Softwares
