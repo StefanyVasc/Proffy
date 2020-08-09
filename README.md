@@ -1,18 +1,11 @@
 
-<p align="center"> 🚧 Em construção</p>
-</br>
 <p align="center">
   <img src="https://camo.githubusercontent.com/74c8681f6d4521903b63e79173a72f0b849243be/68747470733a2f2f692e696d6775722e636f6d2f73356c546465502e706e67" alt="Logo" width="150" height="auto"  />
 </p>
 
-
-
-
-
-
 <p align="center">
   </br>
-  <sub>Plataforma de estudos online, onde é possível conectar alunos com professores.<sub>
+  <sub><b>Conectando estudantes à professores</b></sub>
 </p>
 
 <br />
@@ -38,8 +31,7 @@
 
 ## ➤ Projeto
 
-
-
+Proffy é uma plataforma que conecta estudantes à professores. Onde professores podem se cadastrar de acordo com sua expertise, horários disponíveis e preços hora/aula.  E os alunos podem escolher seus professores de acordo com as matérias e preços. Conta com a versão mobile e com a versão web. 
 
 
 
@@ -48,7 +40,7 @@
 ## ➤ Tecnologias
 
 - [Node.js](https://nodejs.org/en/)
-- [TypeScript]()
+- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
 - [React Native](https://facebook.github.io/react-native/)
 - [SQLite](https://www.sqlite.org/index.html)
@@ -60,6 +52,7 @@ Extras:
     * [Express](https://expressjs.com/pt-br/)
     * [Cors](https://www.npmjs.com/package/cors)
     * [Knex](http://knexjs.org/)
+    * [Axios](https://github.com/axios/axios)
     
   
   * Softwares
@@ -83,11 +76,7 @@ Um preview sobre o projeto. Caso queira acessar o layout inteiro basta
 
 </p>
 
-
 <br/>
-
-
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#file-insomnia)
 
@@ -95,7 +84,9 @@ Um preview sobre o projeto. Caso queira acessar o layout inteiro basta
 
 O arquivo .json com o arquivo usado no Insomnia está dentro da raiz do projeto. Basta fazer o download e importar no insomnia e usar. Lembre de alterar o que for necessário para que você consiga efetuar as requisições. Ou clique no botão para ser redirecionado. <br/>
 <br/>
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=ecoleta&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FNLW-1%2Fblob%2Fmaster%2FInsomnia_2020-06-09.json)
+<p align="center">
+<a href="https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fgithub.com%2FStefanyVasc%2FProffy%2Fblob%2Fmaster%2FInsomnia_2020-08-08.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#instalao)
